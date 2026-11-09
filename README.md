@@ -200,4 +200,4 @@ This repository serves as the official landing page for Expat XML Parser. The so
 **Get the most recent version of Expat XML Parser today!**
 
 ---
-**Last updated:** 2026-11-08 20:56:36 UTC
+**Last updated:** 2026-11-09 00:32:54 UTC
